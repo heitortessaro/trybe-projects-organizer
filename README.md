@@ -66,5 +66,5 @@ This repository contains a list of projects I have realized throughout the Web D
   * *Principais Tecnologias*: React, Jest e React Testing Library.
 
 * [Front-End Online Store](https://github.com/heitortessaro/front-end-online-store)
- * *Descrição*: Esse projeto cria um e-comerce baseado na API do Mercado Livre. O projeto foi desenvolvido em grupo com objetivo de servir como primeiro contato com os métodos ágeis como Scrun e Kanban.
- * *Principais Tecnologias*: React, Kanban e Scrun.
+  * *Descrição*: Esse projeto cria um e-comerce baseado na API do Mercado Livre. O projeto foi desenvolvido em grupo com objetivo de servir como primeiro contato com os métodos ágeis como Scrun e Kanban.
+  * *Principais Tecnologias*: React, Kanban e Scrun.
