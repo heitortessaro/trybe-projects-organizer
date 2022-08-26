@@ -1,6 +1,7 @@
 # Trybe Projects Organizer
 
-This repository contains a list of projects I have realized throughout the Web Development Course at Trybe.
+[EN] This repository contains a list of projects I have realized throughout the Web Development Course at Trybe.
+[PT] Esse repositório fornece uma lista dos projetos desenvolvidos ao longo do curso de desenvolvimento web da Trybe.
 
 ## # Table of Contents
 1. [Back-End](#back-end)
@@ -8,7 +9,7 @@ This repository contains a list of projects I have realized throughout the Web D
 
 ## Back-End
 
-* [Tryber Futebol Club](https://github.com/heitortessaro/trybe-futebol-clube)
+* [**Tryber Futebol Club**](https://github.com/heitortessaro/trybe-futebol-clube)
   * *Descrição*: Fornece uma API para o gerenciamento dos dados de um campeonado de futebol. Possibilita a listagem dos times, jogos, ou da tabela do campeonado. Acompanha uma aplicação front-end fornecida pela Trybe.
   * *Principais Tecnologias*: Node.js, Typescript, Sequelize, OOP, SOLID, TDD;
 
