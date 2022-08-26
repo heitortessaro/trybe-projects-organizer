@@ -8,6 +8,10 @@ This repository contains a list of projects I have realized throughout the Web D
 
 ## Back-End
 
+* [Tryber Futebol Club](https://github.com/heitortessaro/trybe-futebol-clube)
+  * *Descrição*: Fornece uma API para o gerenciamento dos dados de um campeonado de futebol. Possibilita a listagem dos times, jogos, ou da tabela do campeonado. Acompanha uma aplicação front-end fornecida pela Trybe.
+  * *Principais Tecnologias*: Node.js, Typescript, Sequelize, OOP, SOLID, TDD;
+
 * [Trybers and Dragons](https://github.com/heitortessaro/trybers-and-dragons)
   * *Descrição*: Aplica os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG.
   * *Principais Tecnologias*: Node.js e Typescript;
