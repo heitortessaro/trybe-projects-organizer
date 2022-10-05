@@ -1,6 +1,6 @@
 # Trybe Projects Organizer
 
-[EN] This repository contains a list of projects I have realized throughout the Web Development Course at Trybe.
+[EN] This repository contains a list of projects I have realized throughout the Web Development Course at Trybe. <br/>
 [PT] Esse repositório fornece uma lista dos projetos desenvolvidos ao longo do curso de desenvolvimento web da Trybe.
 
 ## # Table of Contents
@@ -8,6 +8,14 @@
 2. [Front-End](#front-end)
 
 ## Back-End
+
+* [**Delivery App**]()
+  * *Descrição*: Projeto Full-Stack que cria uma plataforma de distribuição de bebidas online. Front-end desenvolvido em React. Back-End (API) desenvolvido com Node.js, Express, Zod. Banco de dados com MySQL.
+  * *Principais Tecnologias*: Node.js, React, Sequelize, MySQL;
+
+* [**Car Shop**](https://github.com/heitortessaro/Car-Shoop)
+  * *Descrição*: API com CRUD para gerenciar uma concessionária de veículos. Aplicados conceitor de Programação Orientada a Objetos (POO) e SOLID. Tambeḿ foram desenvolvidos testes unitários para as camadas de Model, Service seguindo a metodologia TDD. Além disso, foi utilizado o banco de dados MongoDB e o ORM Mongoose.
+  * *Principais Tecnologias*: Node.js, Typescript, Mongoose, OOP, SOLID, TDD, MongoDB, Mocha, Chai e Sinon;
 
 * [**Tryber Futebol Club**](https://github.com/heitortessaro/trybe-futebol-clube)
   * *Descrição*: Fornece uma API para o gerenciamento dos dados de um campeonado de futebol. Possibilita a listagem dos times, jogos, ou da tabela do campeonado. Acompanha uma aplicação front-end fornecida pela Trybe.
